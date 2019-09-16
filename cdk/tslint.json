@@ -1,0 +1,23 @@
+{
+  "extends": ["tslint-config-standard"],
+  "rules": {
+    "no-switch-case-fall-through": false,
+    "ordered-imports": true,
+    "space-before-function-paren": false,
+    "interface-name": false,
+    "prefer-object-spread": false,
+    "member-ordering": false,
+    "max-classes-per-file": false,
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "no-empty-interface": false,
+    "no-implicit-dependencies": false,
+    "member-access": false,
+    "quotemark": [true, "single"],
+    "object-literal-key-quotes": false,
+    "object-curly-spacing": false,
+    "no-submodule-imports": false,
+    "semicolon": [true, "always"],
+    "no-unused-expression": false
+  }
+}
